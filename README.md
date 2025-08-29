@@ -2,7 +2,8 @@
 Questão Número 5 dos exercícios do dia 27/08/2025. (~Elizeu Corrêa do Prado)
 
 Objetivo: 
-**Melhore o programa abaixo: **
+
+**Melhore o programa abaixo:**
    
 import java.util.Scanner; // Importa a classe Scanner para obter entrada do usuário
 import static java.lang.Math.sin; // Importa o método estático sin da classe Math
